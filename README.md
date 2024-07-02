@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sochurthy<br>👀 I hold a master's degree student in the field of finance<br>🌱 I have a passion about Cyber Security, and currently learning Malware Analysis, Digital Forensics and Pentesting
+👋 Hi, I’m Sochurthy<br>👀 I hold a master's degree in the field of finance<br>🌱 I have a passion about Cyber Security, and currently learning Malware Analysis, Digital Forensics and Pentesting
 
 
 ## 🌐 Socials:
